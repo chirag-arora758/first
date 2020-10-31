@@ -47,7 +47,7 @@ public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
 MyDate d=new MyDate();
 d.display();
-System.out.println("Enter details");
+/*System.out.println("Enter details");
 int x=sc.nextInt();
 int y=sc.nextInt();
 int z=sc.nextInt();
@@ -63,7 +63,7 @@ d.setDay(b);
 d.setDay(n);
 d.setDay(m);
 System.out.println("Modified details are"+d.getDay()+"/"+d.getMonth()+"/"+d.getYear());
-
+*/
 }
 }
 	
